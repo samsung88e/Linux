@@ -1,5 +1,5 @@
 # Project 2 : IPC MapReduce - Word counts of different lengths
-
+# 2021, 02/28 - 3/17
 
 ## Master (mapreduce.c)
 - Handles spawning the directory traversal, spawning MapInput directory and textfiles that stores the path to each files. 
