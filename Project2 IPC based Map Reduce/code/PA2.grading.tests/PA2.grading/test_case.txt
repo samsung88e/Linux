@@ -1,0 +1,9 @@
+0. Normal test case (T0)
+1. File with long content (T1)
+2. Empty file (T2)
+3. Max number of input files (T3)
+4. Word with a max length (T4)
+5. File with a long line (T5)
+6. Max number of mappers and reducers
+7. Min number of mappers and reducers
+8. argument check for mapreduce
