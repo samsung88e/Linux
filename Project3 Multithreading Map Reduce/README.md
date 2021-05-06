@@ -1,5 +1,6 @@
 # CSci 4061: Introduction to Operating Systems
-## Spring 2021
+# 2021, 03/21 - 04/14
+
 ## Project 3 : Multithreading
 
 Use multithreading to create a producer thread to read the file and multiple consumer threads to process 
