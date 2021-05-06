@@ -1,4 +1,5 @@
 # Project 1 : MapReduce - Word counts of different lengths
+# 2021, 02/09 - 24
 ＊ CSci4061 S2021 Assignment 1
 ＊ login: samsung88e
 ＊ date: 02,24, 2021
