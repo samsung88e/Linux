@@ -2,10 +2,10 @@
 CSCI4061 Introduction to Operating Systems based Projects
 Instructor: Abhishek Chandra, 2021 Spring.
 
-- Implemented 4 different versions of Map-reduce by using C and Linux related library functions in a team of three people, 
-#Hyunwoo Teddy Kim, 
-#Oudome So, 
-#Frederick Alonzi
+- Implemented 4 different versions of Map-reduce by using C and Linux related library functions in a team of three people. 
+## Hyunwoo Teddy Kim, 
+# Oudome So, 
+# Frederick Alonzi
 1. Project  #1: Basic Map Reduce
 2. Project  #2: IPC based Map Reduce
 3. Project  #3: Multithreading Map Reduce
