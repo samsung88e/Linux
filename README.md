@@ -1,6 +1,6 @@
 # Linux
-CSCI4061 Introduction to Operating Systems based Projects
-Instructor: Abhishek Chandra, 2021 Spring.
+## CSCI4061 Introduction to Operating Systems based Projects
+## Instructor: Abhishek Chandra, 2021 Spring.
 
 - Implemented 4 different versions of Map-reduce by using C and Linux related library functions in a team of three people. 
 ## Owner: Hyunwoo Teddy Kim 
