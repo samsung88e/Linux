@@ -1,5 +1,6 @@
 # CSci 4061: Introduction to Operating Systems
-## Spring 2021
+# 2021, 04/13 - 05/03
+
 ## Project 4 : Socket Programming
 ## test machine: CSELAB_machines
 ## date: 05/03/21
